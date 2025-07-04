@@ -1,0 +1,11 @@
+# Ignore PyCharm project files
+.idea/
+*.iml
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
